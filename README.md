@@ -1,5 +1,30 @@
-# 💫 About Me:
-## 👋 Hi, I'm Abhijeet Kharade<br><br>🎓 IT Engineering Graduate (SPPU)<br>💻 Passionate about **Blockchain Technology**, **Web Development**, and **Decentralized Applications (DApps)**<br><br>I enjoy building innovative and practical projects that solve real-world problems using modern technologies. My primary interests include blockchain-based systems, smart contracts, and secure web applications.<br><br>### 🚀 What I've Built<br><br>Blockchain-based healthcare record system (EHR) using React, Solidity & IPFS<br>Decentralized lottery application on Ethereum Sepolia testnet<br>Full-stack hotel review platform with geolocation<br>Real-time traffic management system (SentinelFlow AI) using Docker<br><br>### 🛠️ Skills & Technologies<br><br>**Blockchain Technology:** Ethereum, Ganache, HardHat, Truffle, IPFS, Sepolia<br>**Programming Languages:** C, C++, JavaScript, Solidity<br>**Frontend Technology:** React Js, Redux, Tailwind CSS, Bootstrap, Material UI, Daisy UI, Web3.js<br>**Backend Technology:** NodeJS, ExpressJS, REST API, MySQL, MongoDB<br>**Tools:** Docker, Postman, Remix IDE, VS Code, MySQL Workbench, MongoDB Compass & Atlas, Git & GitHub<br><br>### 📌 Goals<br><br>Land my first Full Stack Developer role<br>Build secure, scalable blockchain solutions<br>Contribute to open-source blockchain projects<br><br>📫 *Open to full-time opportunities, collaboration, and new ideas.*<br>
+# About Me
+
+## Hi, I'm Abhijeet Kharade
+
+IT Engineering Graduate (SPPU) | Full Stack Developer building Web & Web3 applications.
+
+I build practical, full-stack projects that solve real-world problems using modern web and blockchain technologies. My core interests are decentralized systems, smart contracts, and secure web applications.
+
+### Featured Projects
+
+**MediVault** — a decentralized EHR system built with React.js, Solidity & IPFS, giving patients full control over who can access their medical records.<br>
+**Decentralized Lottery DApp** — a full-stack lottery app deployed on Ethereum Sepolia, with smart contracts handling entries and winner selection automatically.<br>
+**Hotel Review Platform** — a full-stack review app built with Node.js, Express.js & MongoDB, with geolocation-based hotel discovery.
+
+### Skills & Technologies
+
+**Blockchain:** Ethereum, Ganache, HardHat, Truffle, IPFS, Sepolia<br>
+**Languages:** C, C++, JavaScript, Solidity<br>
+**Frontend:** React.js, Redux, Tailwind CSS, Bootstrap, Material UI, Web3.js<br>
+**Backend:** Node.js, Express.js, REST API, MySQL, MongoDB<br>
+**Tools:** Git & GitHub, Postman, MySQL Workbench, MongoDB Compass & Atlas, Remix IDE, VS Code
+
+### Goals
+
+Land an entry-level Full Stack Developer role, keep sharpening smart contract security skills, and contribute to open-source blockchain projects.
+
+📫 Open to opportunities — feel free to connect.
 
 
 ## 🌐 Socials:
